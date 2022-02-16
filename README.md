@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dawid0s
-- 👀 I’m interested in acting, video games and obiously programming
+- 👀 I’m interested in acting, video games and obviously programming
 - 🌱 I’m currently learning Java Script
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
